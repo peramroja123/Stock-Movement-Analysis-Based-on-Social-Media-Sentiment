@@ -510,6 +510,6 @@ df[1:] selects all rows starting from index 1 up to the end.
 
 
 ## Deployment :
-* First we nedd to save all the files in one folder,upload that folder into vs code open app.py file and run the code and take new terminal, type python -m run app.py in the terminal.
+* First we nedd to save all the files in one folder,upload that folder into vs code open app.py file and run the code and take new terminal, type python -m streamlit run app.py in the terminal.
 * It open edge sheet where we enter the values enter all the values.
 * It gives prediction either Positive or Negative. 
